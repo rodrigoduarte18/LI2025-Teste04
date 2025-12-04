@@ -1,0 +1,143 @@
+    1  nano informações
+    2  ls
+    3  rm informações
+    4  LS
+    5  <ls
+    6  ls
+    7  sudo apt update
+    8  sudo apt upgrade -y
+    9  sudo apt install apache2 -y
+   10  sudo systemctl status apache2
+   11  sudo systemctl start apache2
+   12  sudo systemctl enable apache2
+   13  cd /var/www/
+   14  ls
+   15  cd html/
+   16  ls
+   17  cat onde
+   18  cat index.html 
+   19  cd
+   20  git clone https://github.com/rodrigoduarte18/omeuprojetohtml.git
+   21  ls
+   22  sudo mv omeuprojetohtml /var/www/html
+   23  /var/www/html
+   24  cd /var/www/html
+   25  ls
+   26  cd omeuprojetohtml
+   27  ls
+   28  exit
+   29  pwd
+   30  git clone https://github.com/rodrigoduarte18/LI2025-Teste03.git
+   31  ls
+   32  cd LI2025-Teste03
+   33  mkdir A134437
+   34  ls
+   35  cd A134437
+   36  touch README.md
+   37  ls
+   38  nano README.md
+   39  cd
+   40  cd LI2025-Teste03
+   41  cd A134437
+   42  cd LI2025-Teste03
+   43  cd ..
+   44  git push
+   45  git push A134437
+   46  git push branch main
+   47  git push branchmain
+   48  git push
+   49  git login
+   50  git add.
+   51  git add
+   52  git add .
+   53  git push
+   54  git commit -m "2ª tarefa concluída"
+   55  git push -u branch main
+   56  git init
+   57  ls
+   58  git push
+   59  sudo git push
+   60  ls
+   61  ls -la
+   62  sudo git push origin main
+   63  ls
+   64  sudo git push origin main
+   65  sudo git push branch main
+   66  git push
+   67  git commit -m "2ª tarefa concluída"
+   68  git add .
+   69  history > meuscomandosazure.txt
+   70  ls
+   71  git push
+   72  ls
+   73  git commit
+   74  git add meuscomandosazure.txt
+   75  git commit
+   76  git add .
+   77  ls
+   78  git commit -m "Meus comandos azure"
+   79  ls
+   80  git add .
+   81  git  commit -m "nn"
+   82  git pudh
+   83  git push
+   84  exit
+   85  pwd
+   86  git clone https://github.com/rodrigoduarte18/LI2025-Teste03rev2.git
+   87  ls
+   88  cd LI2025-Teste03rev2
+   89  mkdir A134437
+   90  ls
+   91  cd A134437
+   92  touch README.md
+   93  ls
+   94  nano README.md
+   95  cd ..
+   96  git add .
+   97  git push
+   98  git push -u origin main
+   99  sudo git push -u origin main
+  100  git push -u
+  101  git push
+  102  sudo git push
+  103  git push
+  104  cd ..
+  105  cd LI2025-Teste03rev2
+  106  git push
+  107  git push -u
+  108  git commit -m "2ªTarefa concluída"
+  109  git push
+  110  git pull
+  111  cp index.html disciplinas.html
+  112  ls
+  113  cd A134437
+  114  cp index.html disciplinas.html
+  115  ls
+  116  git add .
+  117  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  118  git push
+  119  git pull origin main
+  120  history > meusComandosAzure.txt
+  121  cat meusComandosAzure.txt
+  122  git add . && git commit -m "history azure" && git push origin main
+  123  pwd
+  124  ls
+  125  git clone https://github.com/rodrigoduarte18/LI2025-Teste04.git
+  126  cd LI2025-Teste4
+  127  ls
+  128  cd LI2025-Teste04
+  129  mkdir js
+  130  mkdir css
+  131  ls
+  132  cd js
+  133  touch script.js
+  134  ls
+  135  nano script.js
+  136  touch /css/style.css
+  137  touch /LI2025-Teste04/css/style.css
+  138  touch LI2025-Teste04/css/style.css
+  139  touch /home/azureuser/LI2025-Teste04/css/style.css
+  140  cd ..
+  141  cd css
+  142  ls
+  143  history > cmdsTarefa2.txt
